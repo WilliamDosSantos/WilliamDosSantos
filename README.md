@@ -37,7 +37,7 @@ const WilliamDosSantos = {
   <a href="https://github.com/WilliamDosSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamDosSantos&theme=dracula&show_icons=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamDosSantos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamDosSantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 
