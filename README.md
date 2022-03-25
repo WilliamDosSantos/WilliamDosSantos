@@ -45,5 +45,5 @@ const WilliamDosSantos = {
 👔 [linkedin][linkedin]
 
 
- ![Snake animation](https://github.com/WilliamDosSantos)
+ ![Snake animation](https://github.com/WilliamDosSantos/WilliamDosSantos/blob/output/github-contribution-grid-snake.svg)
  
