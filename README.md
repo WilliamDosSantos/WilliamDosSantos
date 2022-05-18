@@ -48,7 +48,4 @@ const WilliamDosSantos = {
 
 📺 [youtube][youtube] **|** 
 👔 [linkedin][linkedin]
-
-
- ![Snake animation](https://github.com/WilliamDosSantos/WilliamDosSantos/blob/output/github-contribution-grid-snake.svg)
  
